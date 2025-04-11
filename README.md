@@ -15,7 +15,7 @@ A modern, responsive, and minimalistic e-commerce store built with **React + Vit
 
 > Add your screenshots here:
 ```
-![Home Page](public/screenshot-home.png)
+![Home Page]("C:\Users\SUGANRAJ S\OneDrive\Pictures\Screenshots\Screenshot 2025-04-11 204627.png")
 ![Product Page](public/screenshot-product.png)
 ```
 
