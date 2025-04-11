@@ -14,7 +14,7 @@ A modern, responsive, and minimalistic e-commerce store built with **React + Vit
 ## 📸 Preview
 
 ### 🏠 Home Page
-![Home Page](public/screenshot-home.png)
+![Home Page](./screenshot-home.png)
 
 ### 📄 Product Page
 ![Product Page](public/screenshot-product.png)
