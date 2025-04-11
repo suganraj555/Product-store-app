@@ -13,13 +13,12 @@ A modern, responsive, and minimalistic e-commerce store built with **React + Vit
 
 ## 📸 Preview
 
-> Add your screenshots here:
-```
-![Home Page]("C:\Users\SUGANRAJ S\OneDrive\Pictures\Screenshots\Screenshot 2025-04-11 204627.png")
-![Product Page](public/screenshot-product.png)
-```
+### 🏠 Home Page
+![Home Page](public/screenshot-home.png)
 
----
+### 📄 Product Page
+![Product Page](public/screenshot-product.png)
+
 
 ## ✨ Features
 
