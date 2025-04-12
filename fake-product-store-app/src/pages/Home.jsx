@@ -14,7 +14,7 @@ const Home = () => {
   return (
     <div className="text-center">
       <div className="glass-container mb-5">
-        <h1 className="mb-2">🛍️ Welcome to the online shopping</h1>
+        <h1>🛍️ Welcome to the online shopping</h1>
       </div>
   
       <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-4">
