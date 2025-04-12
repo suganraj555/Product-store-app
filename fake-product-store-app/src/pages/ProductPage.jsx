@@ -15,21 +15,21 @@ const ProductPage = () => {
   if (!product) return <p>Loading product details...</p>;
 
   return (
-    <div className="container">
+    <div>
       <Link to="/" className="btn btn-outline-secondary mb-4">← Back to shopping</Link>
   
       <div className="glass-container">
         <div className="row align-items-center">
-          <div className="col-md-5 mb-4 mb-md-0 text-center">
-            <img src={product.image} alt={product.title} className="img-fluid p-4 border rounded" style={{ maxHeight: '400px' }} />
+          <div className="col-md-5 text-center">
+            <img src={product.image} alt={product.title} className="p-4 border rounded" style={{ maxHeight: '400px' }} />
           </div>
   
           <div className="col-md-7">
-            <h2 className="mb-3">{product.title}</h2>
-            <h4 className="text-success mb-3">💰 ${product.price}</h4>
+            <h2>{product.title}</h2>
+            <h4 className="text-success">💰 ${product.price}</h4>
             <p className="lead">{product.description}</p>
-            <p className="text-muted">📦 Category: {product.category}</p>
-            <p className="mt-3">
+            <p className="text-primary">📦 Category: {product.category}</p>
+            <p>
               ⭐ Rated {product.rating?.rate} / 5 ({product.rating?.count} reviews)
             </p>
           </div>
